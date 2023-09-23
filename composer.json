@@ -1,0 +1,20 @@
+{
+    "name": "roone/klacht",
+    "autoload": {
+        "psr-4": {
+            "Roone\\Klacht\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rooney",
+            "email": "rooney.zakko@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.4",
+        "dompdf/dompdf": "^2.0",
+        "phpmailer/phpmailer": "^6.8"
+    }
+    
+}
